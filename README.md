@@ -1,1 +1,2 @@
-shell commands and tips \n updated regulary
+shell commands and tips
+updated regulary
